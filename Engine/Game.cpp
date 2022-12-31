@@ -22,6 +22,8 @@
 #include "Game.h"
 #include "SpriteCodex.h"
 
+// some test
+
 Game::Game(MainWindow& wnd)
 	:
 	wnd(wnd),
